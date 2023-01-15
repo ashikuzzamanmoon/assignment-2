@@ -77,6 +77,9 @@ li{
     text-align: center;
     padding: 10px 0;
 }
+.banner-img{
+    text-align: center;
+}
 .banner-img img{
     width: 1000px;
     height: 550px;
